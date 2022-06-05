@@ -203,4 +203,4 @@ function endGame() {
 	})
 	streakScore = 0;
 	streakName.textContent = '';
-}
+} 
